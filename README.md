@@ -1,0 +1,102 @@
+Here’s a professional `README.md` for your project, **WinGenie Optimizer**:
+
+---
+
+# WinGenie Optimizer
+
+**WinGenie Optimizer** is a professional, all-in-one Windows system optimization tool. It provides advanced tweaks, cleanup, and performance enhancements for Windows 10/11, all from a user-friendly interactive menu.
+
+---
+
+## Features
+
+- **Comprehensive System Optimization:** Apply all recommended tweaks in one go.
+- **Boot & File System Tweaks:** Optimize BCD and NTFS settings for faster boot and file access.
+- **Memory & Registry Tweaks:** Disable memory compression, apply registry optimizations for speed and stability.
+- **Service Management:** Disable unnecessary Windows services safely.
+- **Cortana & OneDrive Removal:** Disable or remove resource-heavy features.
+- **App Cleanup:** Remove bloatware and unnecessary Windows apps.
+- **System Cleanup:** Clean up temporary files and system caches.
+- **System Information:** View detailed hardware and OS information.
+- **Change History:** Track all changes and optimizations performed.
+- **Restore Point & Backup:** Optionally create a system restore point and backup before making changes.
+- **Safe & Robust:** Built-in error handling, system health checks, and backup verification.
+
+---
+
+## Requirements
+
+- **Windows 10 or 11**
+- **Python 3.8+** (for source version)
+- **Administrator privileges** (required for most tweaks)
+- **Rich, Click, Psutil** Python packages (auto-installed if using the build script)
+
+---
+
+## Installation
+
+### 1. Download the Executable
+
+- Download `WindowsSystemTweaker.exe` from the [Releases](#) page.
+- **Right-click** and select **Run as administrator**.
+
+### 2. Build from Source (Optional)
+
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/apkaless/win-genie-optimizer.git
+   cd win-genie-optimizer
+   ```
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Run the tool:
+   ```sh
+   python -m tweaker.main
+   ```
+
+4. **To build an EXE:**
+   ```sh
+   python build.py
+   ```
+   The executable will be in the `dist` folder.
+
+---
+
+## Usage
+
+- **Run as administrator** for full functionality.
+- Follow the on-screen menu to select optimizations or view system info.
+- Optionally create a restore point and backup before making changes.
+- All changes are logged and can be reviewed in the change history.
+
+---
+
+## Screenshots
+
+![Main Menu](screenshot.png)
+
+---
+
+## Safety & Disclaimer
+
+- **Backups and restore points are recommended before making changes.**
+- This tool is provided as-is. Use at your own risk.
+- For support, open an issue on the [GitHub page](https://github.com/apkaless).
+
+---
+
+## License
+
+MIT License
+
+---
+
+## Author
+
+Developed by [Apkaless](https://github.com/apkaless)
+
+---
+
+Let me know if you want to add badges, more usage examples, or a FAQ section!
