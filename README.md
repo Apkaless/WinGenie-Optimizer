@@ -27,9 +27,7 @@ Here’s a professional `README.md` for your project, **WinGenie Optimizer**:
 ## Requirements
 
 - **Windows 10 or 11**
-- **Python 3.8+** (for source version)
 - **Administrator privileges** (required for most tweaks)
-- **Rich, Click, Psutil** Python packages (auto-installed if using the build script)
 
 ---
 
@@ -63,18 +61,9 @@ Here’s a professional `README.md` for your project, **WinGenie Optimizer**:
 - This tool is provided as-is. Use at your own risk.
 - For support, open an issue on the [GitHub page](https://github.com/apkaless).
 
----
-
-## License
-
-MIT License
-
----
 
 ## Author
 
 Developed by [Apkaless](https://github.com/apkaless)
 
 ---
-
-Let me know if you want to add badges, more usage examples, or a FAQ section!
