@@ -51,7 +51,7 @@ Here’s a professional `README.md` for your project, **WinGenie Optimizer**:
 
 ## Screenshots
 
-![Main Menu](screenshot.png)
+![ScreenShot](https://github.com/Apkaless/WinGenie-Optimizer/blob/main/Image/WinGenie%20Optimizer.png)
 
 ---
 
