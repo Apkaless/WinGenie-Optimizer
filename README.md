@@ -35,33 +35,11 @@ Here’s a professional `README.md` for your project, **WinGenie Optimizer**:
 
 ## Installation
 
-### 1. Download the Executable
+### Download the Executable
 
 - Download `WindowsSystemTweaker.exe` from the [Releases](#) page.
 - **Right-click** and select **Run as administrator**.
-
-### 2. Build from Source (Optional)
-
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/apkaless/win-genie-optimizer.git
-   cd win-genie-optimizer
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the tool:
-   ```sh
-   python -m tweaker.main
-   ```
-
-4. **To build an EXE:**
-   ```sh
-   python build.py
-   ```
-   The executable will be in the `dist` folder.
-
+- 
 ---
 
 ## Usage
