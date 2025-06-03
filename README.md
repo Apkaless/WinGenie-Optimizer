@@ -49,7 +49,7 @@
 
 ---
 
-## Screenshots
+## Screenshot
 
 ![ScreenShot](https://github.com/Apkaless/WinGenie-Optimizer/blob/main/Image/WinGenie%20Optimizer.png)
 
